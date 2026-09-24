@@ -1,0 +1,96 @@
+category,title,price_gbp,price_inr,rating,in_stock
+Classics,The Secret Garden,15.08,1590.94,4,True
+Classics,The Metamorphosis,28.58,3015.19,1,True
+Classics,The Pilgrim's Progress,50.26,5302.43,2,True
+Classics,The Hound of the Baskervilles (Sherlock Holmes #5),14.82,1563.51,2,True
+Classics,Little Women (Little Women #1),28.07,2961.39,4,True
+Classics,Gone with the Wind,32.49,3427.7,3,True
+Classics,Candide,58.63,6185.47,3,True
+Classics,Animal Farm,57.22,6036.71,3,True
+Classics,Wuthering Heights,17.73,1870.52,3,True
+Classics,The Picture of Dorian Gray,29.7,3133.35,2,True
+Classics,The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),26.78,2825.29,4,True
+Classics,Beowulf,38.35,4045.93,2,True
+Classics,And Then There Were None,35.01,3693.56,2,True
+Classics,The Story of Hong Gildong,43.19,4556.55,4,True
+Classics,The Little Prince,45.42,4791.81,2,True
+Classics,Sense and Sensibility,37.46,3952.03,1,True
+Classics,Of Mice and Men,47.11,4970.11,2,True
+Classics,Emma,32.93,3474.12,2,True
+Classics,Alice in Wonderland (Alice's Adventures in Wonderland #1),55.53,5858.42,1,True
+Philosophy,Sophie's World,15.94,1681.67,5,True
+Philosophy,The Death of Humanity: and the Case for Life,58.11,6130.61,4,True
+Philosophy,The Stranger,17.44,1839.92,4,True
+Philosophy,Proofs of God: Classical Arguments from Tertullian to Barth,54.21,5719.16,1,True
+Philosophy,Kierkegaard: A Christian Missionary to Christians,47.13,4972.22,1,True
+Philosophy,"At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",29.93,3157.62,5,True
+Philosophy,Critique of Pure Reason,20.75,2189.13,1,True
+Philosophy,"Run, Spot, Run: The Ethics of Keeping Pets",20.02,2112.11,1,True
+Philosophy,The Nicomachean Ethics,36.34,3833.87,1,True
+Philosophy,Meditations,25.89,2731.4,2,True
+Philosophy,Beyond Good and Evil,43.38,4576.59,1,True
+Fiction,Soumission,50.1,5285.55,1,True
+Fiction,Private Paris (Private #10),47.61,5022.86,5,True
+Fiction,"We Love You, Charlie Freeman",50.27,5303.49,5,True
+Fiction,Thirst,17.27,1821.99,5,True
+Fiction,The Murder That Never Was (Forensic Instincts #5),54.11,5708.61,3,True
+Fiction,Tuesday Nights in 1980,21.04,2219.72,2,True
+Fiction,The Vacationers,42.15,4446.83,4,True
+Fiction,The Regional Office Is Under Attack!,51.36,5418.48,5,True
+Fiction,Finders Keepers (Bill Hodges Trilogy #2),53.53,5647.42,5,True
+Fiction,The Time Keeper,27.88,2941.34,5,True
+Fiction,The Testament of Mary,52.67,5556.69,4,True
+Fiction,The First Hostage (J.B. Collins #2),25.85,2727.18,3,True
+Fiction,Take Me with You,45.21,4769.66,3,True
+Fiction,Still Life with Bread Crumbs,26.41,2786.26,3,True
+Fiction,Shtum,55.84,5891.12,4,True
+Fiction,My Name Is Lucy Barton,41.56,4384.58,1,True
+Fiction,My Mrs. Brown,24.48,2582.64,3,True
+Fiction,Mr. Mercedes (Bill Hodges Trilogy #1),28.9,3048.95,1,True
+Fiction,I Am Pilgrim (Pilgrim #1),10.6,1118.3,4,True
+Fiction,Eligible (The Austen Project #4),27.09,2858.0,3,True
+Fiction,Eight Hundred Grapes,14.39,1518.15,4,True
+Fiction,Dear Mr. Knightley,11.21,1182.66,5,True
+Fiction,Cometh the Hour (The Clifton Chronicles #6),25.01,2638.56,3,True
+Fiction,Balloon Animals,17.03,1796.67,3,True
+Fiction,A Man Called Ove,39.72,4190.46,1,True
+Fiction,The Silent Sister (Riley MacPherson #1),46.29,4883.6,5,True
+Fiction,The Dinner Party,56.54,5964.97,2,True
+Fiction,The Improbability of Love,59.45,6271.98,1,True
+Fiction,Mothering Sunday,13.34,1407.37,2,True
+Fiction,Lies and Other Acts of Love,45.14,4762.27,1,True
+Fiction,Daredevils,16.34,1723.87,3,True
+Fiction,11/22/63,48.48,5114.64,3,True
+Fiction,The Shack,28.03,2957.17,1,True
+Fiction,The High Mountains of Portugal,51.15,5396.33,1,True
+Fiction,Miller's Valley,58.54,6175.97,2,True
+Fiction,Hystopia: A Novel,21.96,2316.78,4,True
+Fiction,The Bourne Identity (Jason Bourne #1),42.78,4513.29,4,True
+Fiction,Sister Dear,40.2,4241.1,4,True
+Fiction,Memoirs of a Geisha,49.67,5240.19,3,True
+Fiction,Me Before You (Me Before You #1),19.02,2006.61,1,True
+Fiction,Deception Point,40.32,4253.76,4,True
+Fiction,The Little Paris Bookshop,24.73,2609.02,3,True
+Fiction,The Firm,45.56,4806.58,3,True
+Fiction,The Expatriates,44.58,4703.19,2,True
+Fiction,Siddhartha,34.22,3610.21,5,True
+Fiction,Last One Home (New Beginnings #1),59.98,6327.89,3,True
+Fiction,Digital Fortress,58.0,6119.0,5,True
+Fiction,Atlas Shrugged,26.58,2804.19,5,True
+Fiction,Three-Martini Lunch,23.21,2448.66,3,True
+Fiction,The Nightingale,26.26,2770.43,4,True
+Fiction,The Infinities,27.41,2891.76,1,True
+Fiction,The Husband's Secret,52.51,5539.81,5,True
+Fiction,The Da Vinci Code (Robert Langdon #2),22.96,2422.28,2,True
+Fiction,The Art of Fielding,22.1,2331.55,1,True
+Fiction,Lila (Gilead #3),12.47,1315.59,3,True
+Fiction,Jurassic Park (Jurassic Park #1),44.97,4744.34,1,True
+Fiction,Inferno (Robert Langdon #4),41.0,4325.5,5,True
+Fiction,Crazy Rich Asians (Crazy Rich Asians #1),49.13,5183.22,5,True
+Fiction,Big Little Lies,22.11,2332.61,1,True
+Fiction,The Course of Love,16.78,1770.29,3,True
+Fiction,When I'm Gone,51.96,5481.78,3,True
+Fiction,The Silent Wife,12.34,1301.87,5,True
+Fiction,The Bette Davis Club,30.66,3234.63,3,True
+Fiction,Kitchens of the Great Midwest,57.2,6034.6,5,True
+Fiction,Bright Lines,39.07,4121.89,5,True

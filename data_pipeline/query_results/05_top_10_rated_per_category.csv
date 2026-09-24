@@ -1,0 +1,31 @@
+category_name,title,price_gbp,rating,in_stock,rank_in_category
+Classics,The Story of Hong Gildong,43.19,4,1,1
+Classics,Little Women (Little Women #1),28.07,4,1,2
+Classics,The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),26.78,4,1,3
+Classics,The Secret Garden,15.08,4,1,4
+Classics,Candide,58.63,3,1,5
+Classics,Animal Farm,57.22,3,1,6
+Classics,Gone with the Wind,32.49,3,1,7
+Classics,Wuthering Heights,17.73,3,1,8
+Classics,The Pilgrim's Progress,50.26,2,1,9
+Classics,Of Mice and Men,47.11,2,1,10
+Fiction,Digital Fortress,58.0,5,1,1
+Fiction,Kitchens of the Great Midwest,57.2,5,1,2
+Fiction,Finders Keepers (Bill Hodges Trilogy #2),53.53,5,1,3
+Fiction,The Husband's Secret,52.51,5,1,4
+Fiction,The Regional Office Is Under Attack!,51.36,5,1,5
+Fiction,"We Love You, Charlie Freeman",50.27,5,1,6
+Fiction,Crazy Rich Asians (Crazy Rich Asians #1),49.13,5,1,7
+Fiction,Private Paris (Private #10),47.61,5,1,8
+Fiction,The Silent Sister (Riley MacPherson #1),46.29,5,1,9
+Fiction,Inferno (Robert Langdon #4),41.0,5,1,10
+Philosophy,"At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",29.93,5,1,1
+Philosophy,Sophie's World,15.94,5,1,2
+Philosophy,The Death of Humanity: and the Case for Life,58.11,4,1,3
+Philosophy,The Stranger,17.44,4,1,4
+Philosophy,Meditations,25.89,2,1,5
+Philosophy,Proofs of God: Classical Arguments from Tertullian to Barth,54.21,1,1,6
+Philosophy,Kierkegaard: A Christian Missionary to Christians,47.13,1,1,7
+Philosophy,Beyond Good and Evil,43.38,1,1,8
+Philosophy,The Nicomachean Ethics,36.34,1,1,9
+Philosophy,Critique of Pure Reason,20.75,1,1,10
