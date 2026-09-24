@@ -1,2 +1,9 @@
 requests
 beautifulsoup4
+pandas
+chromadb
+fastapi
+langgraph
+pydantic
+sentence-transformers
+uvicorn[standard]
