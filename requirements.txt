@@ -7,3 +7,6 @@ langgraph
 pydantic
 sentence-transformers
 uvicorn[standard]
+seaborn
+matplotlib
+imbalanced-learn

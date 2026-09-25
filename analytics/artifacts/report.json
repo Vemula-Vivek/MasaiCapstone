@@ -1,0 +1,117 @@
+{
+  "shape": [
+    891,
+    15
+  ],
+  "missing_percent": {
+    "age": 19.865,
+    "embarked": 0.224,
+    "deck": 77.217,
+    "embark_town": 0.224
+  },
+  "outliers": {
+    "age": 65,
+    "fare": 114
+  },
+  "fare": {
+    "mean": 32.09668087739032,
+    "median": 14.4542,
+    "mode": 8.05
+  },
+  "survival_rates": {
+    "sex": {
+      "female": 0.7403846153846154,
+      "male": 0.18890814558058924
+    },
+    "pclass": {
+      "1": 0.6261682242990654,
+      "2": 0.47282608695652173,
+      "3": 0.24236252545824846
+    },
+    "sex_pclass": {
+      "female_class_1": 0.967391304347826,
+      "female_class_2": 0.9210526315789473,
+      "female_class_3": 0.5,
+      "male_class_1": 0.36885245901639346,
+      "male_class_2": 0.1574074074074074,
+      "male_class_3": 0.13544668587896252
+    }
+  },
+  "strongest_correlations": {
+    "('pclass', 'fare')": 0.548193285236645,
+    "('sibsp', 'parch')": 0.41454163809972644
+  },
+  "zscore": {
+    "age": {
+      "mean": 2.717486278497571e-16,
+      "std": 1.0005629046322504
+    },
+    "fare": {
+      "mean": 1.3987061727561027e-16,
+      "std": 1.0005629046322506
+    }
+  },
+  "class_balance": {
+    "0": 0.6175478065241845,
+    "1": 0.38245219347581555
+  },
+  "classification": [
+    {
+      "model": "Logistic Regression",
+      "accuracy": 0.8089887640449438,
+      "precision": 0.7833333333333333,
+      "recall": 0.6911764705882353,
+      "f1": 0.734375,
+      "auc": 0.8609625668449199
+    },
+    {
+      "model": "Decision Tree",
+      "accuracy": 0.7640449438202247,
+      "precision": 0.76,
+      "recall": 0.5588235294117647,
+      "f1": 0.6440677966101694,
+      "auc": 0.8373663101604277
+    },
+    {
+      "model": "Random Forest",
+      "accuracy": 0.8033707865168539,
+      "precision": 0.7619047619047619,
+      "recall": 0.7058823529411765,
+      "f1": 0.732824427480916,
+      "auc": 0.8241310160427807
+    }
+  ],
+  "imbalance": [
+    {
+      "strategy": "baseline",
+      "precision": 0.7833333333333333,
+      "recall": 0.6911764705882353,
+      "f1": 0.734375
+    },
+    {
+      "strategy": "class_weight_balanced",
+      "precision": 0.7183098591549296,
+      "recall": 0.75,
+      "f1": 0.7338129496402878
+    },
+    {
+      "strategy": "smote",
+      "precision": 0.7352941176470589,
+      "recall": 0.7352941176470589,
+      "f1": 0.7352941176470589
+    }
+  ],
+  "grid_best": {
+    "model__max_depth": null,
+    "model__max_features": null,
+    "model__n_estimators": 300
+  },
+  "oob_score": 0.8157524613220816,
+  "regression": {
+    "mae": 21.13982897172002,
+    "rmse": 41.74651686398781,
+    "r2": 0.34677343652541215,
+    "adjusted_r2": 0.31177915633927356
+  },
+  "reload_predictions_match": true
+}
